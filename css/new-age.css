@@ -492,3 +492,28 @@ body {
     color: #fff;
     text-align: center;
 }
+
+#mc_embed_signup_scroll label {
+ display: block;
+    font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+    font-weight: 400;
+      font-family: 'Work Sans', 'Helvetica', 'Arial', 'sans-serif';
+ color: #fff;
+}
+
+#mc_embed_signup_scroll input {
+    width: 100%;
+    padding: 15px;
+    border: none;
+    margin-bottom: 2rem;
+}
+
+#mc_embed_signup_scroll .button {
+    background-color: #3bdba1;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+          font-family: 'Work Sans', 'Helvetica', 'Arial', 'sans-serif';
+
+}
